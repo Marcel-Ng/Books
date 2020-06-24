@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Books</string>
+    <string name="error_data_message">Error Loading data from the Api</string>
 </resources>
